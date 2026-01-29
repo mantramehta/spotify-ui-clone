@@ -2,6 +2,12 @@
 
 Spotify-inspired music player UI built with pure HTML and CSS for layout practice.
 
+## Preview
+![UI preview](assets/preview.png)
+
+## Live Demo
+https://mantramehta.github.io/spotify-ui-clone/
+
 ## Features
 - Sidebar navigation, library, and call-to-action cards
 - Sticky top navigation bar
