@@ -5,7 +5,7 @@ Spotify-inspired music player UI built with pure HTML and CSS for layout practic
 ## Features
 - Sidebar navigation, library, and call-to-action cards
 - Sticky top navigation bar
-- Content sections with responsive card grid
+- Content sections with a responsive card grid
 - Fixed bottom music player with controls and sliders
 
 ## Tech Stack
@@ -18,6 +18,11 @@ Spotify-inspired music player UI built with pure HTML and CSS for layout practic
 2. Open `index.html` in your browser.
 
 No build tools or JavaScript required.
+
+## Project Structure
+- `index.html` — markup
+- `style.css` — styles
+- `assets/` — images and icons
 
 ## Disclaimer
 This project is a UI clone created for learning purposes and is not affiliated with Spotify.
